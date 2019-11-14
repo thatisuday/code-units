@@ -1,6 +1,6 @@
 {
   "name": "utf-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get encoding information of a character in UTF-8, UTF-16 and UTF-32 encodings.",
   "main": "index.js",
   "scripts": {

@@ -15,9 +15,15 @@ npm install -S utf-info
 ```js
 const utfInfo = require( 'utf-info' );
 
+// syntax:
+utfInfo( character, encoding );
+// character => single Unicode character (string)
+// encoding => valid UTF encoding (string) viz. utf-8, utf-16, and utf-32
+
+// examples:
 const result = utfInfo( '😊' ); // character `😊`
-// const result = utfInfo( '\u0906' ); // '\u0906' is Unicode escape for character `आ`
-// const result = utfInfo( '\x41' ); // '\x41' is ASCII escape character `A`
+// const result = utfInfo( '\x41', 'utf-8' ); // '\x41' is ASCII escape character `A`
+// const result = utfInfo( '\u0906', 'utf-16' ); // '\u0906' is Unicode escape for character `आ`
 
 /**************
 result => {
