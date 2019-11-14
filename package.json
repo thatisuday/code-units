@@ -1,0 +1,32 @@
+{
+  "name": "utf-info",
+  "version": "1.0.0",
+  "description": "Get encoding information of a character in UTF-8, UTF-16 and UTF-32 encodings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatisuday/utf-info.git"
+  },
+  "keywords": [
+    "utf",
+    "utf-8",
+    "utf-16",
+    "utf-32",
+    "ascii",
+    "encoding",
+    "encodings",
+    "decoder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatisuday/utf-info/issues"
+  },
+  "homepage": "https://github.com/thatisuday/utf-info#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
