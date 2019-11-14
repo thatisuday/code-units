@@ -1,5 +1,10 @@
-# code-units
+# utf-info (Unicode Character Information)
 Get encoding information of a character in UTF-8, UTF-16 and UTF-32 encodings.
+
+[![npm-version](https://img.shields.io/npm/v/utf-info?style=flat-square)](https://www.npmjs.com/package/utf-info)
+[![dependencies](https://img.shields.io/david/thatisuday/utf-info?style=flat-square)](https://www.npmjs.com/package/utf-info)
+[![downloads](https://img.shields.io/npm/dt/utf-info?style=flat-square)](https://www.npmjs.com/package/utf-info)
+[![license](https://img.shields.io/npm/l/utf-info?style=flat-square)](https://www.npmjs.com/package/utf-info)
 
 ## Install
 ```js
