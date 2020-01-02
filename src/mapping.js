@@ -52,6 +52,6 @@ exports.codeUnitsTemplatePerEncoding = {
         2: [ '110110xxxxxxxxxx', '110111xxxxxxxxxx' ],
     },
     'utf-32': {
-        1: [ 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx' ],
+        1: [ 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' ],
     },
 };
